@@ -1,0 +1,6 @@
+owner=177417683774603264
+prefix=-
+game=Fuck Off.
+stayinchannel=true
+songinstatus=false
+token=NTgzNTgxNzQwODgzNTA5MjQ5.XO-dCg.p_lXYKPTgdDnB-_LF1OyB3KSQBo
