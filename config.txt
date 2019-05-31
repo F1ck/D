@@ -3,4 +3,4 @@ prefix=-
 game=Fuck Off.
 stayinchannel=true
 songinstatus=false
-token=NTgzNTgxNzQwODgzNTA5MjQ5.XO-dCg.p_lXYKPTgdDnB-_LF1OyB3KSQBo
+token=NTgzNTgxNzQwODgzNTA5MjQ5.XPCQgw.m4FzKP5PEMT_rtJYIPbWdBFFdCA
